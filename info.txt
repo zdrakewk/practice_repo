@@ -1,0 +1,10 @@
+Hey, Hi, Hello!
+
+Sample file for practicing local & remote git commands! 
+
+Remember to add & commit changes often with the following commands:
+- `git add FILENAME 
+- `git commit` + ENTER
+
+As a reminder keep your commit headlines BRIEF, 50 characters or less
+& provide more details (if needed) in the description section.
